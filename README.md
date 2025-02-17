@@ -1,7 +1,7 @@
 # wordle
 
-Date Started:     December 20, 2022
-Date Completed:   January 23, 2023
+Date Started: December 20, 2022
+Date Completed: January 23, 2023
 
 Description:
   This is a replica of the New York Times game Wordle programmed on Java as my 12th grade Computer Science final.
