@@ -1,8 +1,6 @@
 
 // Kaveena Ramkissoon
-// Mr. Gonzales
 // January 23, 2022
-// ICS4U1
 
 package src;
 
